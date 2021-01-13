@@ -1,4 +1,4 @@
-# objectdeytection
+# objectdetection
 object detection by the pytorch
 
 
